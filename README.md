@@ -1,3 +1,5 @@
+# with fix for rapidly updating chart options
+
 # echarts-for-react
 
 The simplest, and the best React wrapper for [Apache ECharts](https://github.com/apache/incubator-echarts). 
